@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\TusharProject1\TusharProject1\bin\Debug\TusharProject1.exe.config
+C:\Users\student\source\repos\TusharProject1\TusharProject1\bin\Debug\TusharProject1.exe
+C:\Users\student\source\repos\TusharProject1\TusharProject1\bin\Debug\TusharProject1.pdb
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.Form1.resources
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.Properties.Resources.resources
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.exe
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.pdb
+C:\Users\student\source\repos\TusharProject1\TusharProject1\obj\Debug\TusharProject1.Form2.resources
